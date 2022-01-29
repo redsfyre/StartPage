@@ -5,7 +5,7 @@ import Button from "../views/other/button.js";
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const treeConfig = parse(urlParams.get("t")) || {};
-const REPO_URL = "https://github.com/AlexW00/StartTreeV2";
+const REPO_URL = "https://github.com/redsfyre/StartPage";
 
 const t = new EditTree(treeConfig, true);
 document.body.appendChild(t.html());
