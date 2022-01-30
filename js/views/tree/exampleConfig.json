@@ -1,16 +1,16 @@
 {
   "s": {
-    "n": "ddg",
+    "n": "duck",
     "u": "https://duckduckgo.com/?q="
   },
   "t": {
-    "nr": 2
+    "nr": 6
   },
   "v": "0.0",
   "bmc": [
     [
       {
-        "cn": "Welcome...",
+        "cn": "General",
         "b": [
           {
             "n": "bm1",
@@ -23,42 +23,42 @@
         ]
       },
       {
-        "cn": "This is the...",
+        "cn": "Social",
         "b": [
           {
-            "n": "bm5",
-            "u": ""
+            "n": "Twitter",
+            "u": "https://twitter.com"
           },
           {
-            "n": "bm6",
-            "u": ""
+            "n": "Reddit",
+            "u": "https://reddit.com"
           }
         ]
       }
     ],
     [
       {
-        "cn": "...to StartTreeV2!",
+        "cn": "Work",
         "b": [
           {
-            "n": "bm3",
+            "n": "Jira",
             "u": ""
           },
           {
-            "n": "bm4",
-            "u": ""
+            "n": "Mail",
+            "u": "https://mail.google.com"
           }
         ]
       },
       {
-        "cn": "...start config.",
+        "cn": "Docs",
         "b": [
           {
-            "n": "bm7",
-            "u": ""
+            "n": "Drive",
+            "u": "https://drive.google.com"
           },
           {
-            "n": "bm8",
+            "n": "Confuence",
             "u": ""
           }
         ]
