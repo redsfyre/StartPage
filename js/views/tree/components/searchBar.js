@@ -47,7 +47,7 @@ export default class SearchBar {
     textContent.style.display = "inline";
     textContent.innerHTML = "~";
     const symSpan = document.createElement("span");
-    symSpan.innerHTML = " γ ";
+    symSpan.innerHTML = " $ ";
     textContent.appendChild(symSpan);
     textContent.innerHTML += `${this.searchEngineNameShort}`;
 
